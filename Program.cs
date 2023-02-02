@@ -1,4 +1,6 @@
-﻿ int Digits()
+﻿ 
+ /*
+ int Digits()
  {
     
     int num = Convert.ToInt32(Console.ReadLine());
@@ -11,3 +13,20 @@
  Console.Write("input your number: ");
  int result = Digits();
  Console.WriteLine($"second digit is {result}");
+*/
+
+
+Console.Write("input your number:  ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if(0< num && num< 6 )
+{
+    Console.WriteLine("Рабочий день");
+}
+else 
+
+    if(num>5 && num<8)
+     Console.WriteLine("Выходной день");
+ 
+else 
+Console.WriteLine("eror"); 
