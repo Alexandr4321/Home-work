@@ -1,0 +1,15 @@
+/Users/aleksander/Desktop/home work/domashka2/bin/Debug/net6.0/domashka2
+/Users/aleksander/Desktop/home work/domashka2/bin/Debug/net6.0/domashka2.deps.json
+/Users/aleksander/Desktop/home work/domashka2/bin/Debug/net6.0/domashka2.runtimeconfig.json
+/Users/aleksander/Desktop/home work/domashka2/bin/Debug/net6.0/domashka2.dll
+/Users/aleksander/Desktop/home work/domashka2/bin/Debug/net6.0/domashka2.pdb
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.csproj.AssemblyReference.cache
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.AssemblyInfoInputs.cache
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.AssemblyInfo.cs
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.csproj.CoreCompileInputs.cache
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.dll
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/refint/domashka2.dll
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.pdb
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/domashka2.genruntimeconfig.cache
+/Users/aleksander/Desktop/home work/domashka2/obj/Debug/net6.0/ref/domashka2.dll
